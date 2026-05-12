@@ -1,4 +1,4 @@
-
+elite Plugin for Magnetic for macOS - cloud-sync and CPU-monitoring is the best Magnetic for macOS plugin, featuring cloud-sync and CPU-monitoring. Safe, efficient, and optimized
 
 
 
